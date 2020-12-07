@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12553eec-49aa-415a-b974-7f90d7b78c24" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Capstone_Foundation" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kBNd0POb1R6e2zbTyrDaIdL7nS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Pycharm\Capstone_Final\Py\unittests" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Pycharm\Capstone_Final" />
+      <recent name="C:\Pycharm\Capstone_Final\Py" />
+      <recent name="C:\Pycharm\Capstone_Foundation\Py" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Capstone_Final" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Capstone_Final" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Py" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Py/model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run-model-test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Capstone_Final" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run-model-test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run-unittests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Capstone_Final" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run-unittests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Capstone_Final" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.run-unittests" />
+      <item itemvalue="Python.run-model-test" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.model" />
+      <item itemvalue="Python.app" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.run-model-test" />
+        <item itemvalue="Python.model" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.run-unittests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS,SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12553eec-49aa-415a-b974-7f90d7b78c24" name="Default Changelist" comment="" />
+      <created>1605170108486</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605170108486</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="78" key="#Inspections" timestamp="1605185085938">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="78" key="#Inspections/0.0.1536.834@0.0.1536.834" timestamp="1605185085938" />
+    <state x="361" y="78" width="814" height="723" key="#Intentions" timestamp="1606236105854">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="78" width="814" height="723" key="#Intentions/0.0.1536.834@0.0.1536.834" timestamp="1606236105854" />
+    <state x="503" y="89" key="#Unittests_for_TestsLogger.LoggerTest.test_01_train" timestamp="1606229200152">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="503" y="89" key="#Unittests_for_TestsLogger.LoggerTest.test_01_train/0.0.1536.834@0.0.1536.834" timestamp="1606229200152" />
+    <state x="223" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606229389627">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1606229389627" />
+    <state x="532" y="227" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607182278705">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="532" y="227" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1607182278705" />
+    <state x="499" y="167" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605171862950">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="167" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1605171862950" />
+    <state x="503" y="70" key="#unittest_cslib" timestamp="1605172901024">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="503" y="70" key="#unittest_cslib/0.0.1536.834@0.0.1536.834" timestamp="1605172901024" />
+    <state x="532" y="298" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1605173504115">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="532" y="298" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.834@0.0.1536.834" timestamp="1605173504115" />
+    <state x="548" y="174" key="FileChooserDialogImpl" timestamp="1607103851782">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="548" y="174" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1607103851782" />
+    <state width="1515" height="286" key="GridCell.Tab.0.bottom" timestamp="1607347152635">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="286" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1607347152635" />
+    <state width="1515" height="286" key="GridCell.Tab.0.center" timestamp="1607347152635">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="286" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1607347152635" />
+    <state width="1515" height="286" key="GridCell.Tab.0.left" timestamp="1607347152634">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="286" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1607347152634" />
+    <state width="1515" height="286" key="GridCell.Tab.0.right" timestamp="1607347152635">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="286" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1607347152635" />
+    <state width="1515" height="256" key="GridCell.Tab.1.bottom" timestamp="1606255112583">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="256" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1606255112583" />
+    <state width="1515" height="256" key="GridCell.Tab.1.center" timestamp="1606255112583">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="256" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1606255112583" />
+    <state width="1515" height="256" key="GridCell.Tab.1.left" timestamp="1606255112583">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="256" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1606255112583" />
+    <state width="1515" height="256" key="GridCell.Tab.1.right" timestamp="1606255112583">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="256" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1606255112583" />
+    <state x="279" y="62" key="SettingsEditor" timestamp="1605273442765">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="279" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1605273442765" />
+    <state x="93" y="93" width="1350" height="648" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1607074705154">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="93" y="93" width="1350" height="648" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1536.834@0.0.1536.834" timestamp="1607074705154" />
+    <state x="691" y="83" width="672" height="678" key="search.everywhere.popup" timestamp="1606470497067">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="691" y="83" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1606470497067" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

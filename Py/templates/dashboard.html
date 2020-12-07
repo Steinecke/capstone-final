@@ -1,0 +1,45 @@
+
+<!-- extends from base layout -->
+{% extends "base.html" %}
+
+{% block content %}
+<br>
+<p>
+<h3>D a s h b o a r d</h3>
+</p>
+
+
+<div class="jumbotron">
+ <p class="lead"></p>
+
+<h3>Get insight into data</h3>
+<br>
+<form action="running" method="post">
+  <input class="btn btn-default" type="submit" value="Start">
+</form>
+</div>
+
+
+
+<div class="jumbotron">
+ <p class="lead"></p>
+
+<h3>Results from latest training</h3>
+<br>
+<form action="running" method="post">
+  <input class="btn btn-default" type="submit" value="Start">
+</form>
+</div>
+
+
+<div class="jumbotron">
+ <p class="lead"></p>
+
+<h3>Performance drift results</h3>
+<br>
+<form action="running" method="post">
+  <input class="btn btn-default" type="submit" value="Start">
+</form>
+</div>
+
+{% endblock %}

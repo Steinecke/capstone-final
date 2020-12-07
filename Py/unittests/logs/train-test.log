@@ -1,0 +1,3 @@
+unique_id,timestamp,x_shape,eval_test,model_version,model_version_note,runtime
+1200d558-1ede-4f51-bfb0-6d76966db469,1605270949.4354625,"(100, 10)",{'rmse': 0.5},0.1,test model,00:00:01
+e10e4889-d958-4446-aba5-d54d94d2975a,1605270949.4384618,"(100, 10)",{'rmse': 0.5},0.1,test model,00:00:01

@@ -1,0 +1,4 @@
+unique_id,timestamp,y_pred,y_proba,query,model_version,runtime
+6dea908a-c336-443d-b6cd-f38784f5b7a6,1605270949.4534595,[0],"[0.6, 0.4]","['united_states', 24, 'aavail_basic', 8]",0.1,00:00:02
+958c7614-3ce5-4616-a290-fff0d1f8e968,1605270949.456465,[0],"[0.6, 0.4]","['united_states', 24, 'aavail_basic', 8]",0.1,00:00:02
+all,2018-01-05,[99999.99],"[0.6, 0.4]",0.1,supervised learning model for time-series,00:00:00,unittest

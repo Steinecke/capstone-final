@@ -1,0 +1,46 @@
+country,Period,eval_test,runtime,MODEL_VERSION,MODEL_VERSION_NOTE,test
+all,"('2017-12-05', '2019-10-31')",{'rmse': 0.5},00:00:09,0.1,supervised learning model for time-series,False
+all,"('2017-11-29', '2019-05-31')",39508,00:00:10,0.2,TreeRegression model for time-series,False
+all,"('2017-11-29', '2019-05-31')",0.84,00:02:03,0.2,fpProphet time-series analysis,False
+eire,"('2017-11-29', '2019-05-31')",2344,00:00:05,0.2,TreeRegression model for time-series,False
+eire,"('2017-11-29', '2019-05-31')",0.84,00:01:54,0.2,fpProphet time-series analysis,False
+france,"('2017-11-29', '2019-05-31')",662,00:00:04,0.2,TreeRegression model for time-series,False
+france,"('2017-11-29', '2019-05-31')",0.84,00:01:52,0.2,fpProphet time-series analysis,False
+germany,"('2017-11-29', '2019-05-31')",716,00:00:05,0.2,TreeRegression model for time-series,False
+germany,"('2017-11-29', '2019-05-31')",0.84,00:01:54,0.2,fpProphet time-series analysis,False
+hong_kong,"('2018-04-19', '2019-05-01')",1395,00:00:02,0.2,TreeRegression model for time-series,False
+hong_kong,"('2018-04-19', '2019-05-01')",0.84,00:01:11,0.2,fpProphet time-series analysis,False
+netherlands,"('2017-11-30', '2019-05-31')",169,00:00:04,0.2,TreeRegression model for time-series,False
+netherlands,"('2017-11-30', '2019-05-31')",0.84,00:01:53,0.2,fpProphet time-series analysis,False
+norway,"('2017-12-05', '2019-04-01')",298,00:00:03,0.2,TreeRegression model for time-series,False
+norway,"('2017-12-05', '2019-04-01')",0.84,00:01:49,0.2,fpProphet time-series analysis,False
+portugal,"('2017-11-29', '2019-05-31')",540,00:00:04,0.2,TreeRegression model for time-series,False
+portugal,"('2017-11-29', '2019-05-31')",0.84,00:01:51,0.2,fpProphet time-series analysis,False
+singapore,"('2018-04-25', '2019-04-02')",0,00:00:02,0.2,TreeRegression model for time-series,False
+singapore,"('2018-04-25', '2019-04-02')",0.84,00:01:18,0.2,fpProphet time-series analysis,False
+spain,"('2017-12-01', '2019-05-31')",299,00:00:04,0.2,TreeRegression model for time-series,False
+spain,"('2017-12-01', '2019-05-31')",0.84,00:01:53,0.2,fpProphet time-series analysis,False
+united_kingdom,"('2017-11-29', '2019-05-31')",41156,00:00:05,0.2,TreeRegression model for time-series,False
+united_kingdom,"('2017-11-29', '2019-05-31')",0.84,00:01:56,0.2,fpProphet time-series analysis,False
+all,"('2017-11-29', '2019-05-31')",35829,00:00:10,0.2,TreeRegression model for time-series,False
+all,"('2017-11-29', '2019-05-31')",0.84,00:02:16,0.2,fpProphet time-series analysis,False
+eire,"('2017-11-29', '2019-05-31')",2229,00:00:05,0.2,TreeRegression model for time-series,False
+eire,"('2017-11-29', '2019-05-31')",0.84,00:02:05,0.2,fpProphet time-series analysis,False
+france,"('2017-11-29', '2019-05-31')",730,00:00:05,0.2,TreeRegression model for time-series,False
+france,"('2017-11-29', '2019-05-31')",0.84,00:01:56,0.2,fpProphet time-series analysis,False
+germany,"('2017-11-29', '2019-05-31')",710,00:00:05,0.2,TreeRegression model for time-series,False
+germany,"('2017-11-29', '2019-05-31')",0.84,00:01:57,0.2,fpProphet time-series analysis,False
+hong_kong,"('2018-04-19', '2019-05-01')",1414,00:00:02,0.2,TreeRegression model for time-series,False
+hong_kong,"('2018-04-19', '2019-05-01')",0.84,00:01:10,0.2,fpProphet time-series analysis,False
+netherlands,"('2017-11-30', '2019-05-31')",175,00:00:04,0.2,TreeRegression model for time-series,False
+netherlands,"('2017-11-30', '2019-05-31')",0.84,00:01:51,0.2,fpProphet time-series analysis,False
+norway,"('2017-12-05', '2019-04-01')",282,00:00:03,0.2,TreeRegression model for time-series,False
+norway,"('2017-12-05', '2019-04-01')",0.84,00:01:52,0.2,fpProphet time-series analysis,False
+portugal,"('2017-11-29', '2019-05-31')",501,00:00:04,0.2,TreeRegression model for time-series,False
+portugal,"('2017-11-29', '2019-05-31')",0.84,00:01:54,0.2,fpProphet time-series analysis,False
+singapore,"('2018-04-25', '2019-04-02')",0,00:00:02,0.2,TreeRegression model for time-series,False
+singapore,"('2018-04-25', '2019-04-02')",0.84,00:01:18,0.2,fpProphet time-series analysis,False
+spain,"('2017-12-01', '2019-05-31')",269,00:00:04,0.2,TreeRegression model for time-series,False
+spain,"('2017-12-01', '2019-05-31')",0.84,00:01:53,0.2,fpProphet time-series analysis,False
+united_kingdom,"('2017-11-29', '2019-05-31')",38692,00:00:05,0.2,TreeRegression model for time-series,False
+united_kingdom,"('2017-11-29', '2019-05-31')",0.84,00:02:07,0.2,fpProphet time-series analysis,False

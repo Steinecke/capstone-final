@@ -1,0 +1,14 @@
+country,Period,eval_test,runtime,MODEL_VERSION,MODEL_VERSION_NOTE,test
+all,"('2017-11-30', '2019-05-24')",59221,00:00:09,0.2,TreeRegression model for time-series,True
+all,"('2017-11-29', '2019-05-31')",0.84,00:02:10,0.2,fpProphet time-series analysis,True
+germany,"('2017-12-02', '2019-05-22')",794,00:00:03,0.2,TreeRegression model for time-series,True
+germany,"('2017-11-29', '2019-05-31')",0.84,00:01:59,0.2,fpProphet time-series analysis,True
+all,"('2017-11-30', '2019-05-30')",85766,00:00:09,0.2,TreeRegression model for time-series,True
+all,"('2017-11-29', '2019-05-31')",0.84,00:02:01,0.2,fpProphet time-series analysis,True
+germany,"('2017-11-30', '2019-05-26')",897,00:00:03,0.2,TreeRegression model for time-series,True
+germany,"('2017-11-29', '2019-05-31')",0.84,00:02:00,0.2,fpProphet time-series analysis,True
+all,"('2017-11-29', '2019-05-22')",71885,00:00:11,0.2,TreeRegression model for time-series,True
+all,"('2017-11-30', '2019-05-31')",58210,00:00:09,0.2,TreeRegression model for time-series,True
+all,"('2017-11-29', '2019-05-31')",0.84,00:02:10,0.2,fpProphet time-series analysis,True
+germany,"('2017-11-29', '2019-05-26')",754,00:00:04,0.2,TreeRegression model for time-series,True
+germany,"('2017-11-29', '2019-05-31')",0.84,00:03:37,0.2,fpProphet time-series analysis,True

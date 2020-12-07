@@ -1,0 +1,19 @@
+ country , target_date , y_pred , y_proba , MODEL_VERSION , MODEL_VERSION_NOTE , predict_time,test
+all,2019-11-05,[330648.865],0,0.1,supervised learning model for time-series,00:00:39,None
+all,2019-11-05,[323245.6012],0,0.1,supervised learning model for time-series,00:00:39,None
+all,2019-11-05,[325306.03775],0,0.1,supervised learning model for time-series,00:01:14,None
+all,2018-01-05,[99999.99],"[0.6, 0.4]",0.1,supervised learning model for time-series,00:11:11,False
+all,2018-01-05,[99999.99],"[0.6, 0.4]",0.1,supervised learning model for time-series,00:11:11,False
+all,2018-01-05,[99999.99],"[0.6, 0.4]",0.1,supervised learning model for time-series,00:11:11,False
+all,2018-01-05,[99999.99],"[0.6, 0.4]",0.1,supervised learning model for time-series,00:11:11,False
+all,2018-01-05,[99999.99],"[0.6, 0.4]",0.1,supervised learning model for time-series,00:11:11,False
+all,2018-01-05,[99999.99],"[0.6, 0.4]",0.1,supervised learning model for time-series,00:11:11,False
+all,2018-01-05,[99999.99],"[0.6, 0.4]",0.1,supervised learning model for time-series,00:11:11,False
+all,2018-01-05,[99999.99],"[0.6, 0.4]",0.1,supervised learning model for time-series,00:11:11,False
+all,2018-01-05,[99999.99],"[0.6, 0.4]",0.1,supervised learning model for time-series,00:11:11,False
+all,2018-01-05,[99999.99],"[0.6, 0.4]",0.1,supervised learning model for time-series,00:11:11,False
+all,2019-11-05,[325306.03775],0,0.1,supervised learning model for time-series,00:00:40,None
+all,2019-11-05,[325306.03775],0,0.1,supervised learning model for time-series,00:00:40,None
+all,2019-11-05,[325306.03775],0,0.1,supervised learning model for time-series,00:00:40,None
+all,2019-11-05,[325778.237],0,0.1,supervised learning model for time-series,00:00:49,None
+all,2019-06-05,[202126.181],0,0.1,supervised learning model for time-series,00:00:43,None
